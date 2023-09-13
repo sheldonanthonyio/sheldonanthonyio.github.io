@@ -1,10 +1,10 @@
 {
   "name":"sheldonanthonyioapps",
-  "lastUpdated":"2022:09:12 17:32:00",
+  "lastUpdated":"2022:09:13 18:46:00",
   "apps":[
             {"name": "Agile Estimator", "version": "15.5.2", "downloadurl": "https://github.com/sheldonanthonyio/AgileEstimation/raw/main/AgileEstimation-15-v5.2.apk"}, 
-            {"name": "Tangle", "version": "1.0", "downloadurl": "https://github.com/sheldonanthonyio/Tangle/raw/main/Tangle.apk"}, 
-            {"name": "Audio Fader", "version": "1.0", "downloadurl": "https://github.com/sheldonanthonyio/audiofader/blob/main/AudioFader.apk"}, 
-            {"name": "Docushot", "version": "1.0", "downloadurl": "https://github.com/sheldonanthonyio/docushot/blob/main/Docushot.apk"} 
+            {"name": "Tangle", "version": "1.0.0", "downloadurl": "https://github.com/sheldonanthonyio/Tangle/raw/main/Tangle.apk"}, 
+            {"name": "Audio Fader", "version": "1.0.0", "downloadurl": "https://github.com/sheldonanthonyio/audiofader/blob/main/AudioFader.apk"}, 
+            {"name": "Docushot", "version": "1.0.0", "downloadurl": "https://github.com/sheldonanthonyio/docushot/blob/main/Docushot.apk"} 
           ]
 }
